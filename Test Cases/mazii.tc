@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>testcase_02</name>
+   <name>mazii</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>0732b90d-f1f0-43e1-a251-b42254fcdb01</testCaseGuid>
+   <testCaseGuid>ceac29c9-773c-4c59-84d9-acaa33e052c1</testCaseGuid>
 </TestCaseEntity>

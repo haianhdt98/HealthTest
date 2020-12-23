@@ -3,7 +3,7 @@
    <description></description>
    <name>input_ng nhp_q</name>
    <tag></tag>
-   <elementGuidId>b87662c9-dc8f-46bf-b398-3842849f5bec</elementGuidId>
+   <elementGuidId>2c66ff01-196f-4327-8ff0-078cdf6e74d6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -117,6 +117,13 @@
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>naruto</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
       <value>Tìm kiếm</value>
@@ -126,14 +133,14 @@
       <matchCondition>equals</matchCondition>
       <name>data-ved</name>
       <type>Main</type>
-      <value>0ahUKEwjvztqG4uPtAhVCc3AKHY_5ANIQ39UDCAQ</value>
+      <value>0ahUKEwjDn-OR4uPtAhXDc3AKHb3GARIQ39UDCAo</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;sbtc&quot;)/div[@class=&quot;SDkEP&quot;]/div[@class=&quot;a4bIc&quot;]/input[@class=&quot;gLFyf gsfi&quot;]</value>
+      <value>id(&quot;tsf&quot;)/div[2]/div[@class=&quot;A8SBwf&quot;]/div[@class=&quot;RNNXgb&quot;]/div[@class=&quot;SDkEP&quot;]/div[@class=&quot;a4bIc&quot;]/input[@class=&quot;gLFyf gsfi&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -147,7 +154,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='sbtc']/div/div[2]/input</value>
+      <value>//form[@id='tsf']/div[2]/div/div[2]/div/div[2]/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

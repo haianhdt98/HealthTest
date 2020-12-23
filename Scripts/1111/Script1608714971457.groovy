@@ -22,17 +22,15 @@ WebUI.navigateToUrl('https://www.google.com/imghp?hl=vi')
 
 WebUI.setText(findTestObject('Object Repository/Page_Google Hnh nh/input_ng nhp_q'), 'naruto')
 
-WebUI.click(findTestObject('Object Repository/Page_naruto - Google Tm kim/img_naruto-viet-nam.fandom.com_rg_i Q4LuWd'))
+WebUI.click(findTestObject('Object Repository/Page_naruto - Google Tm kim/a_Tt c'))
 
-WebUI.rightClick(findTestObject('Object Repository/Page_naruto - Google Tm kim/img_Tm hiu thm_n3VNCb'))
+WebUI.click(findTestObject('Object Repository/Page_naruto - Tm vi Google/input_ng nhp_q'))
 
-WebUI.rightClick(findTestObject('Object Repository/Page_naruto - Google Tm kim/img_Tm hiu thm_n3VNCb'))
+WebUI.click(findTestObject('Object Repository/Page_naruto - Tm vi Google/div_Tt cHnh nhVideoTin tcMua smThmSchChuyn _c9389c'))
 
-WebUI.switchToWindowTitle('Locobee_Naruto_1.jpg (1920×1407)')
+WebUI.click(findTestObject('Object Repository/Page_naruto - Tm vi Google/a_Video'))
 
-WebUI.click(findTestObject('Object Repository/Page_Locobee_Naruto_1.jpg (19201407)/img'))
-
-WebUI.click(findTestObject('Object Repository/Page_Locobee_Naruto_1.jpg (19201407)/img'))
+WebUI.click(findTestObject('Object Repository/Page_naruto - Tm vi Google/a_Tin tc'))
 
 WebUI.closeBrowser()
 
