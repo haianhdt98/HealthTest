@@ -20,12 +20,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://dict.laban.vn/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Laban Dictionary - T in Anh Vit, Vit A_c53572/input_Laban Dictionary - T din Anh Vit, Vit_a235b8'), 
-    'cat')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Laban Dictionary - T in Anh Vit, Vit A_c53572/input_Laban Dictionary - T din Anh Vit, Vit_a235b8'), 
-    Keys.chord(Keys.ENTER))
-
 WebUI.setText(findTestObject('Object Repository/Page_CAT - Tm kim  Laban Dictionary - T in _9191bb/input_Laban Dictionary - T din Anh Vit, Vit_a235b8'), 
     'hello')
 
