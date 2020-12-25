@@ -13,7 +13,7 @@ WebUI.click(findTestObject('Object Repository/Page_CAT - Tm kim  Laban Dictionar
 
 WebUI.click(findTestObject('Object Repository/Page_hello - Tm kim  Laban Dictionary - T i_5326f0/input_Laban Dictionary - T din Anh Vit, Vit_a235b8'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_hello - Tm kim  Laban Dictionary - T i_5326f0/select_Anh - Vit                Vit - Anh  _fd5ee1'), 
+WebUI.selectOptionByValue(findasdasfaasdaject('Object Repository/Page_hello - Tm kim  Laban Dictionary - T i_5326f0/select_Anh - Vit                Vit - Anh  _fd5ee1'), 
     '_vi', true)
 
 WebUI.setText(findTestObject('Object Repository/Page_hello - Tm kim  Laban Dictionary - T i_5326f0/input_Laban Dictionary - T din Anh Vit, Vit_a235b8_1'), 
